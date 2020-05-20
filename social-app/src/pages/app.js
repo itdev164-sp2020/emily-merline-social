@@ -1,6 +1,6 @@
 import React from "react"
 import { Router } from "@reach/router"
-import Layout from "../components/Layout"
+import Layout from "../components/layout"
 import PrivateRoute from "../components/private-route"
 // import Profile from "../components/Profile"
 // import Details from "../components/Details"
